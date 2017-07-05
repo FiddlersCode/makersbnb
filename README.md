@@ -13,7 +13,7 @@ sequelize db:migrate --env="test"
 
 ### Testing
 
-run a server using npm run start:dev
+run a server using `npm run start:dev` and open up `localhost:8000`
 
 run tests via npm test
 
